@@ -1,2 +1,0 @@
-User_name="mohamedhabas11"
-access_token="a6423c3a1f88a1d8fa6d7ff91d2cc7c0b35926db"
